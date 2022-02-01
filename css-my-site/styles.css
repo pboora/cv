@@ -1,0 +1,55 @@
+.studylogo {
+  height: 200px;
+  width: 200px;
+}
+
+.sas {
+  height: 80px;
+  width: 400px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.divtop {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  /* font-family: 'Alex Brush', cursive; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
