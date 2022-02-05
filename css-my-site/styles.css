@@ -49,6 +49,9 @@ body {
   padding: 50px 0 20px;
 }
 
+.aatmja:hover {
+  color:blue;
+}
 h1 {
   margin-top: 50px auto 0 auto;
   /* font-family: 'Sacramento', cursive; */
